@@ -4,6 +4,8 @@ I created this site as a repository for my PhD in Biostatistics work at Emory Un
 
 ### On this site you will find the following:
 1. Lectures for BIOS 544
+2. Links to my favorite R programming resources.
+
 
 
 
