@@ -3,6 +3,13 @@ Currenlty, this page is a repository for resources that I have found helpful. I 
 
 # Resources
 
+Programming:
+
+* [INFO 550 Data Science Toolkit at Emory University](https://benkeser.github.io/info550/) by David Benkeser
+
+Machine Learning:
+
+
 Causal inference:
 
 * [One-Step Estimators and Pathwise derivatives](https://observablehq.com/@herbps10/one-step-estimators-and-pathwise-derivatives) by Herb Susmann
